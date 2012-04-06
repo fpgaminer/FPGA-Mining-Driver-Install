@@ -8,6 +8,16 @@ Bitcoin FPGA Mining boards like the X6500 require the use of libusb drivers on W
 
 ### Download [X6500 Windows Driver (XP/Vista/7)](https://github.com/downloads/fpgaminer/FPGA-Mining-Driver-Install/X6500_FPGA_Miner_Driver_20120405b.exe)  
 
+## Instructions
+
+Simply run the installer and complete installation. The drivers should now be installed, and Windows should recognize your mining boards correctly.
+
+If you have trouble, are using Windows XP, or Windows recognizes your mining boards as something else, connect all your mining boards to your computer, disconnect all other USB devices, and run the installer again.
+
+## Uninstall
+
+This installation program installs only drivers, so there is nothing to uninstall. You can, if you wish, uninstall the drivers using Windows' Device Manager.
+
 .  
 
 .  
