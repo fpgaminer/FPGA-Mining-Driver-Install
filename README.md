@@ -6,7 +6,7 @@ Bitcoin FPGA Mining boards like the X6500 require the use of libusb drivers on W
 
 ## Download
 
-### Download [X6500 Windows Driver (XP/Vista/7)](https://github.com/downloads/fpgaminer/FPGA-Mining-Driver-Install/X6500_FPGA_Miner_Driver_20120405a.exe)  
+### Download [X6500 Windows Driver (XP/Vista/7)](https://github.com/downloads/fpgaminer/FPGA-Mining-Driver-Install/X6500_FPGA_Miner_Driver_20120405b.exe)  
 
 .  
 
