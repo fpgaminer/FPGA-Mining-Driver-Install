@@ -42,7 +42,6 @@ PrivilegesRequired = admin
 ; note: this installer also works with 64bit
 Source: "wdi-simple.exe"; DestDir: "{tmp}"; Flags: replacesameversion promptifolder;
 Source: "X6500_FPGA_Miner.inf"; DestDir: "{tmp}"; Flags: replacesameversion promptifolder;
-Source: "msvcr100.dll"; DestDir: "{tmp}\usb_driver"; Flags: replacesameversion promptifolder;
 Source: "COPYING"; DestDir: "{tmp}"; Flags: replacesameversion promptifolder;
 Source: "COPYING-LGPL"; DestDir: "{tmp}"; Flags: replacesameversion promptifolder;
 
